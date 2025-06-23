@@ -23,7 +23,6 @@ I solve complex migration challenges by designing **pragmatic, incremental moder
 - Industrial & logistics software systems  
 - Clean code, SOLID principles, and design patterns  
 - DevOps & CI/CD pipelines (GitLab, Azure DevOps)  
-- Cloud optimization (Microsoft Azure)  
 - .NET ecosystem: C#, WinForms, .NET Framework/Core, EF Core
 
 ---
