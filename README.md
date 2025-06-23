@@ -43,18 +43,5 @@ I solve complex migration challenges by designing **pragmatic, incremental moder
 
 ---
 
-## 📈 LinkedIn Stats
-
-![Followers](https://img.shields.io/badge/Followers-697-blue?style=flat&logo=linkedin)  
-![Posts Impressions](https://img.shields.io/badge/Posts_Impressions-487-green?style=flat)  
-![Profile Views](https://img.shields.io/badge/Profile_Views-148-orange?style=flat)
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-m-ramos-837078169)  
-[![Blog](https://img.shields.io/badge/-Blog-000000?logo=wordpress&logoColor=white)](https://jm-ramos.com)  
-
----
-
 ⭐ Passionate about bridging legacy and modern software worlds. Let’s connect and build sustainable solutions!
 
