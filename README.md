@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Jose M. Ramos (JoeDevSharp)**
+# 👋 Hi, I’m **Jose M. Ramos (Joe)**
 
 ### Senior Software Engineer | Legacy Systems Modernization Expert | .NET & Industrial Software Specialist
 
