@@ -3,11 +3,6 @@
 ### Senior Software Engineer | Legacy Systems Modernization Expert | .NET & Industrial Software Specialist
 
 ---
-
-📍 Montpellier, France | 🌐 [jm-ramos.com](https://jm-ramos.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jose-m-ramos-837078169)
-
----
-
 ## 🚀 About Me
 
 With over **12 years** of hands-on experience, I specialize in **modernizing legacy industrial software**—bringing stability, scalability, and maintainability to critical systems that often can’t afford downtime or full rewrites.
