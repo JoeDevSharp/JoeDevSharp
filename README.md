@@ -1,84 +1,56 @@
-# 👋 Hello, I’m **Jose M. Ramos (Joe DevSharp)**
+# 👋 Hi, I’m **Jose M. Ramos (JoeDevSharp)**
 
-### Senior Software Engineer | Legacy Systems Modernization Specialist | .NET Expert
+### Senior Software Engineer | Legacy Systems Modernization | .NET Specialist
 
 ---
 
-📍 Based in Montpellier, France | 🌐 [My blog](https://jm-ramos.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jose-m-ramos-837078169)
+📍 Montpellier, France | 🌐 [jm-ramos.com](https://jm-ramos.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jose-m-ramos-837078169)
 
 ---
 
 ## 🚀 About Me
 
-I bring **12+ years of experience** transforming legacy industrial software into modern, scalable, and maintainable solutions.  
-Specialized in **legacy system migration, progressive modernization, and clean architecture** for critical industrial applications.
-
-- Expertise in analyzing and auditing legacy software to design tailored migration strategies.  
-- Strong background in **.NET Core**, **WinForms modernization**, **dependency injection**, and **reactive programming**.  
-- Experienced in DevOps integration (CI/CD pipelines, GitLab, Azure) for optimized delivery workflows.  
-- Passionate about building open-source frameworks that help bridge legacy and modern software worlds.
+12+ years transforming legacy industrial software into modern, scalable solutions.  
+Focused on pragmatic, progressive modernization without costly rewrites.
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🛠️ Tech Stack
 
-**Senior Migration Engineer @ Genius Migration Legacy**  
-*Feb 2024 - Present, Montpellier*  
-- Lead complex migration projects ensuring smooth transition from legacy to modern solutions.  
-- Defined industrialization standards to improve maintainability and scalability.  
-- Supported teams adopting agile and DevOps practices.
-
-**Founder & President @ Codevia Group**  
-*Feb 2022 - May 2025*  
-- Created and scaled a technology holding covering software migration, talent acquisition, custom app development, and audiovisual content production.  
-- Delivered cloud-native applications on Microsoft Azure with ASP.NET Core and EF Core.  
-- Implemented agile methodologies and DevOps pipelines for accelerated development cycles.
-
-Other notable roles include Senior Software Engineer engagements at Schneider Electric, SEPTEO, and VINCI Autoroutes, focusing on industrial software, ticketing systems, and application lifecycle improvements.
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-EF_Core-512BD4?logo=entity-framework&logoColor=white)
 
 ---
 
-## 🌟 Skills & Technologies
+## 📈 LinkedIn Stats
 
-- **Languages & Frameworks:** C#, .NET Core, .NET Framework, Visual Basic .NET  
-- **Cloud & DevOps:** Azure, AWS, Azure DevOps, GitLab CI/CD  
-- **Architectures & Patterns:** Clean Architecture, Hexagonal, Dependency Injection  
-- **UI & Modernization:** WinForms, Reactive Extensions (Rx), MQTT, IoT  
-- **Databases & ORM:** Entity Framework Core  
-- **Others:** Agile, Scrum, Test-Driven Development, Legacy System Analysis
+![Followers](https://img.shields.io/badge/Followers-697-blue?style=flat&logo=linkedin)  
+![Posts Impressions](https://img.shields.io/badge/Posts_Impressions-487-green?style=flat)  
+![Profile Views](https://img.shields.io/badge/Profile_Views-148-orange?style=flat)
 
 ---
 
-## 📊 LinkedIn Presence
+## 🔧 Open Source Highlights
 
-- 697 followers & 500+ professional contacts  
-- Regularly share insights on **technical debt**, **legacy modernization**, and **industrial software challenges**  
-- Engaged with over 140 profile views and 480+ post impressions in the last week
-
----
-
-## 🔧 Open Source Projects
-
-Explore my repos for reusable frameworks tailored to legacy modernization and reactive UI in .NET:  
-- **Net.Extensions.FormsValidation:** Modular validation framework for .NET apps  
-- **WinForms.Extensions.DependencyInjection:** DI container for WinForms modernization  
-- **WinForms.Extensions.Reactive:** Reactive UI binding for WinForms  
-- **Net.Extensions.MqttReactiveMapper:** MQTT reactive object mapper
-
-Find all my projects on [GitHub](https://github.com/JoeDevSharp).
+| Project                                 | Description                                           | Last Update    |
+|----------------------------------------|-------------------------------------------------------|----------------|
+| [Net.Extensions.FormsValidation](https://github.com/JoeDevSharp/Net.Extensions.FormsValidation) | Flexible .NET validation framework                    | June 23, 2025  |
+| [WinForms.Extensions.DependencyInjection](https://github.com/JoeDevSharp/WinForms.Extensions.DependencyInjection) | DI tailored for WinForms                              | June 22, 2025  |
+| [WinForms.Extensions.Reactive](https://github.com/JoeDevSharp/WinForms.Extensions.Reactive) | Reactive data binding for WinForms                    | June 21, 2025  |
+| [Net.Extensions.MqttReactiveMapper](https://github.com/JoeDevSharp/Net.Extensions.MqttReactiveMapper) | Reactive MQTT object mapper                            | June 17, 2025  |
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jose-m-ramos-837078169)  
-- [Personal Blog](https://jm-ramos.com)  
-- [Malt Profile](https://www.malt.fr/profile/joeramos)
-
----
-
-⭐ **If you appreciate clean code, pragmatic modernization, and reliable legacy transitions, feel free to star my repos or get in touch!**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-m-ramos-837078169)  
+[![Blog](https://img.shields.io/badge/-Blog-000000?logo=wordpress&logoColor=white)](https://jm-ramos.com)  
 
 ---
 
-*README last updated: June 23, 2025*
+⭐ If you like pragmatic modernization and clean code, check out my repos & say hi!
+
