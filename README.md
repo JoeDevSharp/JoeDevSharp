@@ -27,17 +27,6 @@ I solve complex migration challenges by designing **pragmatic, incremental moder
 
 ---
 
-## 💼 Professional Highlights
-
-| Role                              | Company                | Duration           | Key Achievements                                                 |
-|----------------------------------|------------------------|--------------------|-----------------------------------------------------------------|
-| Senior Migration Engineer         | Genius Migration Legacy| Feb 2024 - Present | Led complex legacy migrations minimizing downtime and risks.   |
-| President & Founder               | Codevia Group          | Feb 2022 - May 2025 | Structured multi-entity tech group, driving software industrialization. |
-| Senior Software Engineer          | Schneider Electric     | Apr 2023 - Nov 2023| Led design and implementation of testing and certification tools for electrical cabinets. |
-| Senior Software Engineer          | VINCI Autoroutes       | Dec 2022 - Mar 2023| Developed centralized ticketing & document management solutions. |
-
----
-
 ## 🏆 Key Achievements
 
 - Architected and delivered **incremental modernization frameworks** to keep legacy WinForms apps maintainable and scalable.  
@@ -64,19 +53,6 @@ I solve complex migration challenges by designing **pragmatic, incremental moder
 ![Followers](https://img.shields.io/badge/Followers-697-blue?style=flat&logo=linkedin)  
 ![Posts Impressions](https://img.shields.io/badge/Posts_Impressions-487-green?style=flat)  
 ![Profile Views](https://img.shields.io/badge/Profile_Views-148-orange?style=flat)
-
----
-
-## 🔧 Open Source Highlights
-
-| Project                                 | Description                                           | Last Update    |
-|----------------------------------------|-----------------------------------------------------|----------------|
-| [Net.Extensions.FormsValidation](https://github.com/JoeDevSharp/Net.Extensions.FormsValidation) | Flexible .NET validation framework                   | June 23, 2025  |
-| [WinForms.Extensions.DependencyInjection](https://github.com/JoeDevSharp/WinForms.Extensions.DependencyInjection) | DI tailored for WinForms                             | June 22, 2025  |
-| [WinForms.Extensions.Reactive](https://github.com/JoeDevSharp/WinForms.Extensions.Reactive) | Reactive data binding for WinForms                   | June 21, 2025  |
-| [Net.Extensions.MqttReactiveMapper](https://github.com/JoeDevSharp/Net.Extensions.MqttReactiveMapper) | Reactive MQTT object mapper                           | June 17, 2025  |
-
----
 
 ## 📫 Connect with me
 
